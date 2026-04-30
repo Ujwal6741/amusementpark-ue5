@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Content/AmusementPark_Level.umap filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+Saved/Autosaves/**/*.umap filter=lfs diff=lfs merge=lfs -text
+Saved/** filter=lfs diff=lfs merge=lfs -text
