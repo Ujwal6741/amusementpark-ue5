@@ -23,6 +23,15 @@ Unreal Engine 5
 
 This project was developed with assistance from AI tools for debugging, workflow setup, and guidance while implementing Unreal Engine features. All core design, implementation decisions, and project integration were completed by the author.
 
+## Main Level
+
+The primary playable level of this project is:
+
+Content/AmusementPark_Level.umap
+
+When opening the project in Unreal Engine 5, this is the main amusement park environment.
+
+
 ## Author
 
 Ujwal R
